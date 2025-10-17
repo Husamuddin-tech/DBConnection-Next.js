@@ -42,7 +42,7 @@ A minimal boilerplate / utility for initializing a MongoDB connection in a Next.
    Copy `.env.example` to `.env` and fill in your MongoDB URI, e.g.:
 
    ```text
-   MONGODB_URI=mongodb+srv://user:password@cluster0.mongodb.net/myDatabase?retryWrites=true&w=majority
+   MONGODB_URI=Your mongoDB URI
    ```
 
 4. **Run the project**
